@@ -22,21 +22,21 @@
   />
   <img
     align="center"
-    alt="Java Icon"
+    alt="Spring Boot Icon"
     height="40"
     width="40"
     src="https://www.svgrepo.com/show/354380/spring-icon.svg"
   />
   <img
     align="center"
-    alt="Java Icon"
+    alt="TypeScript Icon"
     height="40"
     width="40"
     src="https://www.svgrepo.com/show/303600/typescript-logo.svg"
   />
   <img
     align="center"
-    alt="Java Icon"
+    alt="Angular Icon"
     height="40"
     width="40"
     src="https://www.svgrepo.com/show/373427/angular.svg"
@@ -50,21 +50,21 @@
   <br />
   <img
     align="center"
-    alt="Java Icon"
+    alt="Kotlin Icon"
     height="40"
     width="40"
     src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg"
   />
   <img
     align="center"
-    alt="Java Icon"
+    alt="Unity Icon"
     height="40"
     width="40"
     src="https://www.svgrepo.com/show/354494/unity.svg"
   />
   <img
     align="center"
-    alt="Java Icon"
+    alt="Godot Icon"
     height="40"
     width="40"
     src="https://www.svgrepo.com/show/373641/godot.svg"
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/jean-maciel/">
     <img
       align="center"
-      alt="Java Icon"
+      alt="LinkedIn Icon"
       height="40"
       width="40"
       src="https://www.svgrepo.com/show/81143/linkedin.svg"
@@ -88,7 +88,7 @@
   <a href="mailto:jeanmacielreisj@gmail.com">
     <img
       align="center"
-      alt="Java Icon"
+      alt="Gmail Icon"
       height="40"
       width="40"
       src="https://www.svgrepo.com/show/223047/gmail.svg"
@@ -103,7 +103,7 @@
 <p align="center">
   <img
     align="center"
-    alt="Java Icon"
+    alt="Drinking coffee gif"
     height="200"
     width="300"
     src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b905abe0-5495-4b05-afae-8b726ce1d028/d81kf4g-c9c03740-023f-4774-9200-7c97e8ea247b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I5MDVhYmUwLTU0OTUtNGIwNS1hZmFlLThiNzI2Y2UxZDAyOFwvZDgxa2Y0Zy1jOWMwMzc0MC0wMjNmLTQ3NzQtOTIwMC03Yzk3ZThlYTI0N2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DP5IzNX3KkQNRZ2pvMqcyJ-q3cOCqyaHV08_11S8V9o"
