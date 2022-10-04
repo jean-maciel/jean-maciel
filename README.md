@@ -50,6 +50,13 @@
   <br />
   <img
     align="center"
+    alt="Flutter Icon"
+    height="40"
+    width="40"
+    src="https://www.svgrepo.com/show/353751/flutter.svg"
+  />
+  <img
+    align="center"
     alt="Kotlin Icon"
     height="40"
     width="40"
