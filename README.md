@@ -2,11 +2,7 @@
 
 <h2 align="center">
   I'm a Computer Science student working my way through this vast field. If
-  you'd like to know, I'm 23 y/o and always trying to learn new stuff. I'm a
-  software development intern at
-  <a href="https://www.eldorado.org.br">Instituto Eldorado</a>.
-  <br />
-  <br />
+  you'd like to know, I'm 23 y/o and always trying to learn new stuff.
 </h2>
 
 <p align="center">
