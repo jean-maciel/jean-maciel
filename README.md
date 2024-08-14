@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Jean Maciel!</h1>
 
 <h2 align="center">
-  I'm a Computer Science student working my way through this vast field. If
+  I'm a Biomedical Informatics student working my way through this vast field. If
   you'd like to know, I'm 23 y/o and always trying to learn new stuff.
 </h2>
 
