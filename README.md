@@ -2,7 +2,7 @@
 
 <h2 align="center">
   I'm a Biomedical Informatics student working my way through this vast field. If
-  you'd like to know, I'm 23 y/o and always trying to learn new stuff.
+  you'd like to know, I'm 25 y/o and always trying to learn new stuff.
 </h2>
 
 <p align="center">
